@@ -1,6 +1,6 @@
 package com.baizhi;
 
-public class service {
+public interface service {
   public void add();
   
 }
